@@ -1,5 +1,5 @@
 # hello-world
-New hello-world repository
 
+A simple hello-world repository.
 
-This is a change that's not reflected in the master. How cool is that?
+This repository contains a minimal example that prints "Hello, World!".
